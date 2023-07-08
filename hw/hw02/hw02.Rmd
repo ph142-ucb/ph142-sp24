@@ -11,7 +11,7 @@ library(testthat)
 ```
 
 ### Instructions 
-* Solutions will be released by Wednesday, February 1st.
+* Solutions will be released by Wednesday, July 12th.
 * This semester, problem sets are for practice only and will not be turned in for marks.
 
 Helpful hints:
@@ -364,11 +364,3 @@ _Type your answer here, replacing this text._
 
 ## END
 
-## Submission
-
-Make sure you have run all cells in your notebook in order before running the cell below, so that all images/graphs appear in the output. The cell below will generate a zip file for you to submit. **Please save before exporting!**
-
-```{r}
-# Save your notebook first, then run this cell to export your submission.
-ottr::export("hw02.Rmd", pdf = TRUE)
-```
