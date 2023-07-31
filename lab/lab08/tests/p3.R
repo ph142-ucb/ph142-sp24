@@ -7,7 +7,8 @@ test = list(
       points = 1.0,
       code = {
         test_that("p3a", {
-          expect_true(dim(deeks_wide) == c(71, 3))
+          expect_true(nrow(deeks_wide) == 71, 
+                      ncol(deeks_wide) == 3)
           print("Checking: deeks_wide is in wide format")
         })
       }
