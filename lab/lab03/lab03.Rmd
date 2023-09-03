@@ -107,6 +107,8 @@ p6
 
 Does a linear relationship hold for any part of the data? What pattern do you notice?
 
+_Type your answer here, replacing this text._
+
 \newpage
 
 **7. [1 point] For this lab, we would like to use linear regression. To do this, use a `dplyr` function to make a new dataset called `CS_data_sub` that only contains the low-, lower-middle, and upper-middle income countries (hint: You might want to look at the data to see exactly what these levels are called in the data set).**
