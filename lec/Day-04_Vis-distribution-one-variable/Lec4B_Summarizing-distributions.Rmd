@@ -351,7 +351,7 @@ across hospitals in their rates of cesarean delivery?
 
 If there are an even number of observations, split the ordered list in half and
 find the **median** of each half of the data. The lower median is the Q1 estimate,
-and the upper median is the Q2 estimate.
+and the upper median is the Q3 estimate.
 
 If there are an odd number of observations, then split the data with the lower half
 being the ordered values below (but not including) the median, and the upper half

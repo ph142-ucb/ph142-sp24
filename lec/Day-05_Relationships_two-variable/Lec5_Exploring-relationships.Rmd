@@ -556,7 +556,7 @@ ggplot(breakup_data, aes(x = time_since_breakup, y = distress_score)) +
 
 ### Recap: What functions did we use?
 
-- `geom_scatter()`, `aes(col = gender)` to color points by levels of `gender`
+- `geom_point()`, `aes(col = gender)` to color points by levels of `gender`
 - `summarize()` to calculate correlation using `cor(var1, var2)`
 
 ### Important concepts
