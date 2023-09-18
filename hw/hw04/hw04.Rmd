@@ -12,7 +12,7 @@ library(testthat)
 ```
 
 ### Instructions 
-* Solutions will be released by Thursday, July 20th.
+* Solutions will be released by Friday, September 22nd.
 * This semester, problem sets are for practice only and will not be turned in for marks.
 
 Helpful hints:
