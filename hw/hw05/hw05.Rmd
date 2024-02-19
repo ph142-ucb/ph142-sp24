@@ -39,9 +39,6 @@ An average pregnancy for humans lasts 266 days, with a standard deviation of
 ```{r out.width="50%"}
 #knitr::include_graphics("src/Your-file-name.JPG")
 
-# BEGIN SOLUTION NO PROMPT
-knitr::include_graphics("src/A5_Normal-a.JPG")
-# END SOLUTION
 ```
 
 _Type your answer here, replacing this text._
