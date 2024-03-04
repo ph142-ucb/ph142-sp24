@@ -48,12 +48,9 @@ Read in the data, `L07_Alameda.csv` (it lives in the data folder) and assign it 
 
 ```{r message=FALSE, warning=FALSE, tags=c()}
 
-install.packages("googlesheets4")
-
 library(dplyr)
 library(ggplot2)
 library(readr)
-library(googlesheets4)
 
 #### YOUR CODE GOES HERE ####
 
